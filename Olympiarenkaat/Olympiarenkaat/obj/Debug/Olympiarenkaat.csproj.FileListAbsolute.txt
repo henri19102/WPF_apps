@@ -1,0 +1,16 @@
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\bin\Debug\Olympiarenkaat.exe.config
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\bin\Debug\Olympiarenkaat.exe
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\bin\Debug\Olympiarenkaat.pdb
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\Olympiarenkaat.csprojAssemblyReference.cache
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\MainWindow.g.cs
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\App.g.cs
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\Olympiarenkaat_MarkupCompile.cache
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\Olympiarenkaat_MarkupCompile.lref
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\MainWindow.baml
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\Olympiarenkaat.g.resources
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\Olympiarenkaat.Properties.Resources.resources
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\Olympiarenkaat.csproj.GenerateResource.cache
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\Olympiarenkaat.csproj.CoreCompileInputs.cache
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\Olympiarenkaat.exe
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\Olympiarenkaat.pdb
+C:\Users\Henri\source\repos\Olympiarenkaat\Olympiarenkaat\obj\Debug\GeneratedInternalTypeHelper.g.cs

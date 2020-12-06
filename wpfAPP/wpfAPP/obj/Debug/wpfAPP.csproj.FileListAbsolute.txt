@@ -1,0 +1,15 @@
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\bin\Debug\wpfAPP.exe.config
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\bin\Debug\wpfAPP.exe
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\bin\Debug\wpfAPP.pdb
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\obj\Debug\wpfAPP.csprojAssemblyReference.cache
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\obj\Debug\MainWindow.g.cs
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\obj\Debug\App.g.cs
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\obj\Debug\wpfAPP_MarkupCompile.cache
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\obj\Debug\wpfAPP_MarkupCompile.lref
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\obj\Debug\MainWindow.baml
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\obj\Debug\wpfAPP.g.resources
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\obj\Debug\wpfAPP.Properties.Resources.resources
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\obj\Debug\wpfAPP.csproj.GenerateResource.cache
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\obj\Debug\wpfAPP.csproj.CoreCompileInputs.cache
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\obj\Debug\wpfAPP.exe
+C:\Users\Henri\source\repos\wpfAPP\wpfAPP\obj\Debug\wpfAPP.pdb

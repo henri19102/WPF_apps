@@ -1,0 +1,28 @@
+﻿<Window x:Class="Olympiarenkaat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Olympiarenkaat"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Canvas HorizontalAlignment="Left" Height="185" VerticalAlignment="Bottom" Width="676" Background="#FFECDDDD" Margin="0,0,0,234">
+            <Ellipse x:Name="s1" Height="85" Canvas.Left="202" Stroke="#FF0D0DC3" Canvas.Top="21" Width="85" StrokeThickness="4"/>
+            <Ellipse x:Name="s2" Height="85" Canvas.Left="247" Stroke="#FFEEF901" Canvas.Top="65" Width="85" StrokeThickness="4"/>
+            <Ellipse x:Name="s3" Height="85" Canvas.Left="292" Stroke="#FF0E0E0E" Canvas.Top="21" Width="85" StrokeThickness="4"/>
+            <Ellipse x:Name="s4" Height="85" Canvas.Left="337" Stroke="#FF0DC30D" Canvas.Top="65" Width="85" StrokeThickness="4"/>
+            <Ellipse x:Name="s5" Height="85" Canvas.Left="382" Stroke="#FFE22F1D" Canvas.Top="21" Width="85" StrokeThickness="4"/>
+
+        </Canvas>
+        <Button x:Name="move" Content="Button" HorizontalAlignment="Left" Margin="707,27,0,0" VerticalAlignment="Top" Width="75" Click="move_Click"/>
+        <local:MyCanvas x:Name="n1"  HorizontalAlignment="Left" Height="79" Margin="199,216,0,0" VerticalAlignment="Top" Width="85"/>
+        <local:MyCanvas x:Name="n2"  HorizontalAlignment="Left" Height="79" Margin="289,216,0,0" VerticalAlignment="Top" Width="85"/>
+        <local:MyCanvas x:Name="n3"  HorizontalAlignment="Left" Height="79" Margin="379,216,0,0" VerticalAlignment="Top" Width="85"/>
+        <local:MyCanvas x:Name="n4"  HorizontalAlignment="Left" Height="79" Margin="245,273,0,0" VerticalAlignment="Top" Width="85"/>
+        <local:MyCanvas  x:Name="n5"  HorizontalAlignment="Left" Height="79" Margin="335,273,0,0" VerticalAlignment="Top" Width="85"/>
+
+
+
+    </Grid>
+</Window>
